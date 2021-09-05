@@ -1,6 +1,6 @@
 # Papers
 
-Miscellaneous papers from undergrad. Answers to questions may be wrong!
+Miscellaneous papers from undergrad. Note that the answers to the psets posted have already been made public through authoritative means elsewhere. Please refer to the official solutions for accuracy.
 
 | Year | Description |
 |:-------|:--------------|
