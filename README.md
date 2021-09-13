@@ -6,4 +6,4 @@ Miscellaneous papers from undergrad. Note that the answers to the psets posted h
 |:-------|:--------------|
 |2019|Linguistics, statistics|
 |2020|Signals/systems|
-|2021|Algorithms, numerical analysis|
+|2021|Algorithms, numerical analysis, advanced linear algebra|
